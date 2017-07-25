@@ -12,7 +12,7 @@ relative_permalinks: true
 title:            Codinfox
 tagline:          'Learning to be Giant.'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              http://cleroythomas.github.io
 
 author:
   name:           'Your Name'
